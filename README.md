@@ -10,3 +10,7 @@ change made by branch feature-2 again
 change in branch feature-3
 
 change mage in branch fix-b
+
+change in feature-c
+
+change in feature-c again
