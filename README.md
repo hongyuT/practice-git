@@ -6,3 +6,5 @@ learn how to work with git
 change made by branch feature-2
 
 change made by branch feature-2 again
+
+change mage in branch fix-b
